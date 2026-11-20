@@ -1,0 +1,8 @@
+{
+  "name": "BlackBall - Drinks Sem foto",
+  "description": "Cardápio digital 100% mobile, moderno e premium de bebidas para o BlackBall Sinuca Bar sem fotos, com busca em tempo real, categorias, detalhes, porções e valores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
